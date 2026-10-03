@@ -2,8 +2,6 @@
 
 A full-stack **microservices** fitness application: users log workouts, and an AI service (Google Gemini) analyzes each activity and produces personalized recommendations. Built with **Java Spring Boot / Spring Cloud** on the backend and **React** on the frontend.
 
-> This repository is based on the *Java Spring Boot AI Full Stack Microservices Course* by [EmbarkX](http://www.embarkx.com) (instructor: Faisal Memon). See [Credits](#credits) at the bottom.
-
 ---
 
 ## Table of Contents
@@ -24,7 +22,6 @@ A full-stack **microservices** fitness application: users log workouts, and an A
 - [Project Structure](#project-structure)
 - [Testing](#testing)
 - [Known Issues & Limitations](#known-issues--limitations)
-- [Credits](#credits)
 
 ---
 
