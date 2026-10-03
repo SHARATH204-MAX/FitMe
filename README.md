@@ -378,7 +378,3 @@ cd <service>
 - The poms declare Java 23 while many machines have 17 or a newer JDK — see [Building the Project](#building-the-project) for the exact flags used.
 
 ---
-
-## Credits
-
-Original course repository: **[EmbarkXOfficial/fitness-app-microservices](https://github.com/EmbarkXOfficial/fitness-app-microservices)** — *Java Spring Boot AI Full Stack Microservices Course: Building Fitness Application* by Faisal Memon / [EmbarkX.com](http://www.embarkx.com). Course materials are for personal learning use only; see the upstream repository's usage policy.
